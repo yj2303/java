@@ -1,4 +1,4 @@
-//0-1 Knapsack
+
 class Knapsack { 
    
     static int max(int a, int b)  
